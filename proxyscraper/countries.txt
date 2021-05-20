@@ -1,4 +1,4 @@
-Enter any 1 of the following country codes to select the country you want to scrape proxies from.
+Enter any 1 of the following country codes to select the country you want to scrape proxies for.
 -------------------------------------------------------------------------------------------------
 US
 CN
